@@ -1,5 +1,5 @@
 # CPR_bispectrum
-code for the calculation of three point function induced by cross correlation between CMB polarization rotation angles and CMB anisotropic fields
+code for the calculation of three point function induced by cross correlation between CMB polarization rotation angles and CMB anisotropic fields, e.g, T alpha and E alpha correlations. Here alpha stands for the cosmic birefringence rotation angle 
 
 1, calculator_bispectrum_temp.f90 is subroutine for temperature contained bispactrum calculation
 
